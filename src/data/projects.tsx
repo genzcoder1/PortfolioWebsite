@@ -258,8 +258,8 @@ const projects: Project[] = [
         PROJECT_SKILLS.sockerio,
       ],
     },
-    live: "https://www.codingducks.xyz/",
-    github: "https://github.com/Naresh-Khatri/Coding-Ducks",
+    live: "https://www.youtube.com/@heygenzcoder",
+    github: "https://www.youtube.com/@heygenzcoder",
     get content() {
       return (
         <div>
@@ -343,7 +343,7 @@ const projects: Project[] = [
     title: "Coupon Luxury",
     src: "/assets/projects-screenshots/couponluxury/landing.png",
     screenshots: ["1.png", "2.png", "3.png", "4.png", "5.png"],
-    live: "https://www.couponluxury.com/",
+    live: "https://www.youtube.com/@heygenzcoder",
     skills: {
       frontend: [
         PROJECT_SKILLS.js,
@@ -434,7 +434,7 @@ const projects: Project[] = [
     title: "The Booking Desk",
     src: "/assets/projects-screenshots/the-booking-desk/landing.png",
     screenshots: ["1.png"],
-    live: "https://thebookingdesk.com/",
+    live: "https://www.youtube.com/@heygenzcoder",
     skills: {
       frontend: [
         PROJECT_SKILLS.ts,
@@ -498,10 +498,10 @@ const projects: Project[] = [
     id: "portfolio",
     category: "Portfolio",
     title: "My Portfolio",
-    src: "/assets/projects-screenshots/portfolio/landing.png",
+    src: "/assets/projects-screenshots/ghostchat/1.png",
     screenshots: ["1.png"],
-    live: "http://nareshkhatri.vercel.app",
-    github:"https://github.com/Naresh-Khatri/Portfolio",
+    live: "https://www.youtube.com/@heygenzcoder",
+    github: "https://www.youtube.com/@heygenzcoder",
     skills: {
       frontend: [
         PROJECT_SKILLS.ts,
@@ -533,8 +533,8 @@ const projects: Project[] = [
           </p>
           <SlideShow
             images={[
-              `${BASE_PATH}/portfolio/landing.png`,
-              `${BASE_PATH}/portfolio/skills.png`,
+              `${BASE_PATH}/ghostchat/1.png`,
+              `${BASE_PATH}/ghostchat/2.png`,
             ]}
           />
           <TypographyH3 className="my-4 ">Space Theme</TypographyH3>
@@ -549,8 +549,8 @@ const projects: Project[] = [
           </p>
           <SlideShow
             images={[
-              `${BASE_PATH}/portfolio/projects.png`,
-              `${BASE_PATH}/portfolio/project.png`,
+              `${BASE_PATH}/ghostchat/1.png`,
+              `${BASE_PATH}/ghostchat/1.png`,
             ]}
           />
           <p className="font-mono mb-2 mt-8 text-center">
@@ -566,8 +566,8 @@ const projects: Project[] = [
     title: "GhostChat",
     src: "/assets/projects-screenshots/ghostchat/1.png",
     screenshots: ["1.png", "2.png", "3.png", "4.png"],
-    live: "https://ghostchat.vercel.app",
-    github:"https://github.com/Naresh-Khatri/GhostChat",
+    live: "https://www.youtube.com/@heygenzcoder",
+    github: "https://www.youtube.com/@heygenzcoder",
     skills: {
       frontend: [PROJECT_SKILLS.js, PROJECT_SKILLS.next, PROJECT_SKILLS.chakra],
       backend: [PROJECT_SKILLS.supabase],
@@ -602,7 +602,7 @@ const projects: Project[] = [
     title: "JNTUA Results Analyzer",
     src: "/assets/projects-screenshots/jra/1.png",
     screenshots: ["1.png"],
-    live: "https://naresh-khatri.github.io/JNTUA-result-analyser-spa/#/",
+    live: "https://www.youtube.com/@heygenzcoder",
     skills: {
       frontend: [PROJECT_SKILLS.js, PROJECT_SKILLS.vue],
       backend: [

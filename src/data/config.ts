@@ -24,22 +24,22 @@ const config = {
     "Framer Motion",
   ],
   author: "genZcoder",
-  email: "naresh.khatri2345@gmail.com",
+  email: "genzcoder01@gmail.com",
   site: "https://nareshkhatri.site",
 
   // for github stars button
-  githubUsername: "naresh-khatri",
-  githubRepo: "3d-portfolio",
+  githubUsername: "genzcoder1",
+  githubRepo: "PortfolioWebsite",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://x.com/nothotchaddi",
-    linkedin: "https://www.linkedin.com/in/naresh-khatri/",
-    instagram: "https://www.instagram.com/hotchaddi",
-    facebook: "https://www.facebook.com/HotChaddi/",
-    github: "https://github.com/Naresh-Khatri",
+    twitter: "https://x.com/genZcoder07",
+    linkedin: "https://www.youtube.com/@heygenzcoder",
+    instagram: "https://www.instagram.com/genzcoder01",
+    facebook: "https://www.facebook.com/profile.php?id=61584192766446",
+    github: "https://github.com/genzcoder1",
   },
 };
 export { config };
